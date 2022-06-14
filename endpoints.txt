@@ -1,0 +1,2 @@
+http://www.boomlings.com/database/downloadGJLevel22.php,http://localhost:3000/thedatabase/downloadGJLevel22.php,true;
+http://www.boomlings.com/database/getGJLevels21.php,http://localhost:3000/thedatabase/getGJLevels21.php,true
