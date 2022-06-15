@@ -12,7 +12,7 @@ setup is very simple
 ```
 3. open `extra.txt` and change the extra configuration like so
 ```js
-//format goes like this
+// format goes like this
 <game location>:|:<base url>
 // explanation: no new lines, seperated by :|: and base url refers to the database url without anything extra (already filled out in example)
 ```
